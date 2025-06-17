@@ -11,12 +11,12 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-  SESSION_ID: process.env.SESSION_ID || "",
+  SESSION_ID: process.env.SESSION_ID || "BEN-BOT~B3S2TUAX4449SWK",
   PREFIX: getConfig("PREFIX") || process.env.PREFIX || ".",
-  OWNER_NUMBER: process.env.OWNER_NUMBER || "93744215959",
-  OWNER_NAME: process.env.OWNER_NAME || "ɴᴏᴛʜɪɴɢ ᴛᴇᴄʜ",
-  BOT_NAME: process.env.BOT_NAME || "ʙᴇɴ-ʙᴏᴛ",
-  STICKER_NAME: process.env.STICKER_NAME || "ʙᴇɴ-ʙᴏᴛ",
+  OWNER_NUMBER: process.env.OWNER_NUMBER || "917012452972",
+  OWNER_NAME: process.env.OWNER_NAME || "𝐳𝐞𝐫𝐨𝐱",
+  BOT_NAME: process.env.BOT_NAME || "𝐳𝐞𝐫𝐨𝐱 𝐛𝐨𝐭",
+  STICKER_NAME: process.env.STICKER_NAME || "𝐳𝐞𝐫𝐨𝐱 𝐛𝐨𝐭",
   DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ɴᴏᴛʜɪɴɢ ᴛᴇᴄʜ*",
   MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://i.postimg.cc/Y2GSGtfG/IMG-20250502-WA0012-1.jpg'",
   ALIVE_IMG: process.env.ALIVE_IMG || "https://i.postimg.cc/Y2GSGtfG/IMG-20250502-WA0012-1.jpg'",
